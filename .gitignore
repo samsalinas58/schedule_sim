@@ -1,0 +1,7 @@
+/target
+.DS_Store
+*.pages
+*.numbers
+Report.pdf
+*.zip
+*.txt
